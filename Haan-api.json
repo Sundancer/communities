@@ -1,0 +1,31 @@
+{
+  "name": "Freifunk Haan",
+  "url": "http://freifunk-neanderfunk.de/",
+  "location": {
+    "city": "Haan",
+    "country": "DE",
+    "lat": 51.1923,
+    "lon": 7.0066
+  },
+  "contact": {
+    "email": "freifunk.hilden@gmail.com",
+    "phone": "+491718406989 ",
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "lastchange": "2016-03-26T10:21:15.918Z",
+    "focus": []
+  },
+  "api": "0.4.10",
+  "nodeMaps": [
+    {
+      "url": "https://han.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
